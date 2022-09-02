@@ -34,3 +34,8 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p16 - verificar suma
  - p17 - convertir temperaturas
  - p18 - paga trabajador v2
+## Actividad 04
+ - p19 - verificar suma
+ - p20 - ley de newton
+ - p21 - aceptar estudiante
+ - p22 - angulos
