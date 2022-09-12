@@ -22,7 +22,7 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p07 - funciones trigonometricas
  - p08 - dividir cifras
 
-## Actividad de tarea
+## Actividad de tarea 01
  - p09 - hipotenusa triangulo
  - p10 - tercer angulo
  - p11 - celsius a farenheit
@@ -39,3 +39,20 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p20 - ley de newton
  - p21 - aceptar estudiante
  - p22 - angulos
+## Actividad tarea 02
+ - p23 - numeros consecutivos
+ - p24 - numero mayor
+ - p25 - dias de la semana
+ - p26 - numeros romanos
+ - p27 - calculo de notas
+ - p28 - aseptar estudiante v2
+## Actividad 05
+ - p29 - numeros del 1 a n
+ - p30 - numeros de 100 a n
+ - p31 - numeros del 1 al 200
+ - p32 - suma de numeros para saber cuanto ganaras
+ - p33 - conteo de numero
+ - p34 - tablas de multiplicar
+ - p35 - talas de multim¿plicar v2
+ - p36 - convercon dolar
+ - p37 - conjetura de collatz
