@@ -75,6 +75,12 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p52 - piramide asteriscos
  - p53 - cuadro caracteres
 ## Actividad Tarea 04
+- p54 - numeros de 10 en 10
+- p55 - suma de pares
+- p56 - secuencia de n renglones
+- p57 - secuencia de n renglones v2
+- p58 - termino armonico
+- p59 - secuencia de terminos v2
 
 ## Actividad 07
  - p60 - contar vocales consonantes
