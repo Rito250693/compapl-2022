@@ -1,24 +1,27 @@
-#dividir una frase  en palabras y contar consonantes y vocales
+#dividir una frase  en palabra y contar consonantes y vocales
 
 
 
 
-print('dividir una frase  en palabras y contar consonantes y vocales')
+print('dividir una frase  en palabra y contar consonantes y vocales')
 
-frase ='''Al año los murcielagos hullen de la fuerte luz\
-que baja por el kiosco de wivex'''
+#frase ='''Al año los murcielagos hullen de la fuerte luz\
+#que baja por el kiosco de wivex'''
+
+frase=input('Dame La frase?')
 
 print(f'{len(frase)} - {frase} \n')
 
-palabras= frase.split() #dividir en palabras 
+palabra= frase.split() #dividir en palabra 
 
-print(f' lista de palabras: {palabras,} ,\n')
+print(f' lista de palabra: {palabra,} ,\n')
 
-print(f"{'Divicion de palabras':-^35}")
-for palabras in palabras:
-    print(f'{len(palabras):>4} - {palabras:<12}', end='')
+print(f"{'Divicion de palabra':-^35}")
+
+for palabra in palabra:
+    print(f'{len(palabra):>4} - {palabra:<12}', end='')
     v=c=0
-    for letra in palabras:
+    for letra in palabra:
         print (letra)
         if letra.isalpha():
             if letra.lower() in 'aeiou': v=v+1
