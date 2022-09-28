@@ -56,7 +56,7 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p35 - talas de multim¿plicar v2
  - p36 - convercon dolar
  - p37 - conjetura de collatz
-## Catividad Tarea 03
+## Actividad Tarea 03
  - p38 - numeros impares
  - p39 - numeros pares decendentes
  - p40 - promedio suma numeros 
