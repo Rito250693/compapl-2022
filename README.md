@@ -56,3 +56,27 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p35 - talas de multim¿plicar v2
  - p36 - convercon dolar
  - p37 - conjetura de collatz
+## Catividad Tarea 03
+ - p38 - numeros impares
+ - p39 - numeros pares decendentes
+ - p40 - promedio suma numeros 
+ - p41 - suma hasta 200
+ - p42 - temperaturas listas
+ - p43 - numero mayor
+## Actividad 06
+ - p44 - numeros 100 ciclo for
+ - p45 - numeros del 100 a 1
+ - p46 - arriba abajo
+ - p47 - pares e impares
+ - p48 - suma de numeros
+ - p49 - factorial
+ - p50 - tabla de multiplicar for
+ - p51 - tablas de multiplicar
+ - p52 - piramide asteriscos
+ - p53 - cuadro caracteres
+## Actividad Tarea 04
+
+## Actividad 07
+ - p60 - contar vocales consonantes
+ - p61 - contar letras digitos y otros 
+ - p62 - dividir y contar 
