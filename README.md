@@ -29,16 +29,19 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p12 - volumen de un cilindro
  - p13 - calculo de tiempo
  - p14 - numero de la suerte
+
 ## Actividad 03
  - p15 - verificar numero
  - p16 - verificar suma
  - p17 - convertir temperaturas
  - p18 - paga trabajador v2
+
 ## Actividad 04
  - p19 - verificar suma
  - p20 - ley de newton
  - p21 - aceptar estudiante
  - p22 - angulos
+
 ## Actividad tarea 02
  - p23 - numeros consecutivos
  - p24 - numero mayor
@@ -46,16 +49,20 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p26 - numeros romanos
  - p27 - calculo de notas
  - p28 - aseptar estudiante v2
+ 
 ## Actividad 05
  - p29 - numeros del 1 a n
  - p30 - numeros de 100 a n
  - p31 - numeros del 1 al 200
  - p32 - suma de numeros para saber cuanto ganaras
+
+ ## Actividad 06
  - p33 - conteo de numero
  - p34 - tablas de multiplicar
  - p35 - talas de multim¿plicar v2
  - p36 - convercon dolar
  - p37 - conjetura de collatz
+
 ## Actividad Tarea 03
  - p38 - numeros impares
  - p39 - numeros pares decendentes
@@ -63,17 +70,21 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p41 - suma hasta 200
  - p42 - temperaturas listas
  - p43 - numero mayor
-## Actividad 06
+
+## Actividad 07
  - p44 - numeros 100 ciclo for
  - p45 - numeros del 100 a 1
  - p46 - arriba abajo
  - p47 - pares e impares
  - p48 - suma de numeros
+
+ ## Actividad 08
  - p49 - factorial
  - p50 - tabla de multiplicar for
  - p51 - tablas de multiplicar
  - p52 - piramide asteriscos
  - p53 - cuadro caracteres
+
 ## Actividad Tarea 04
  - p54 - numeros de 10 en 10
  - p55 - suma de pares
@@ -82,7 +93,23 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p58 - termino armonico
  - p59 - secuencia de terminos v2
 
-## Actividad 07
+## Actividad 09
  - p60 - contar vocales consonantes
  - p61 - contar letras digitos y otros 
  - p62 - dividir y contar 
+
+## Actividad 10
+ - p63 - procesar texto
+ - p64 - formateo de datos 1
+ - p65 - formateo de datos 2
+
+## Actividad Tarea 05
+
+## Actividad 11
+ - p70 - acceder lista
+ - p71 - Cambiar lista
+ - p72 - Agregar lista
+ - p74 - remover lista
+ - p75 - iterar lista
+
+
