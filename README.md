@@ -104,12 +104,34 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p65 - formateo de datos 2
 
 ## Actividad Tarea 05
+ - p66 – vocales, consonantes v2
+ - p67 – contar letras, dígitos, símbolos v2
+ - p68 – juntar palabras
+ - p69 - tabla conversiones
 
 ## Actividad 11
  - p70 - acceder lista
  - p71 - Cambiar lista
  - p72 - Agregar lista
- - p74 - remover lista
- - p75 - iterar lista
+ - p73 - remover lista
+ - p74 - iterar lista
 
+## Actividad 12
+ - p75 – procesar calificaciones
+ - p76 – sumar dos listas de n números
+ - p77 – día de paga
+ - p78 - nombres y edades
+ - p79 – listas con aleatorios
+
+## Actividad Tarea 06
+ - p80 – procesar notas de clase
+ - p81 – listas multiplica
+ - p82 – mes días y nombre
+ - p83 – listas aleatorios suma
+ - p84 - ciudades
+ - p85 - lista impares
+
+## Actividad 13
+ - p86 – trabajando con conjuntos
+ - p87 – operaciones entre conjuntos
 

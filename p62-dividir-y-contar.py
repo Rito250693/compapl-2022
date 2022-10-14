@@ -1,5 +1,5 @@
 #dividir una frase  en palabra y contar consonantes y vocales
-
+import os;os.system('cls')
 
 
 

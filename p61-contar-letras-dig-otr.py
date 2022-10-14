@@ -1,6 +1,6 @@
 #contar letras, numeros y simbolos
 
-from re import L
+
 
 
 print('contar letras, numeros y simbolos')
