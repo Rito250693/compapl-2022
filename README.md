@@ -77,8 +77,6 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p46 - arriba abajo
  - p47 - pares e impares
  - p48 - suma de numeros
- - p49 - factorial
-
 
  ## Actividad 08
  - p49 - factorial
