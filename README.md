@@ -135,3 +135,18 @@ este repositorio contiene los programas en pyon desarrollados durante la clase
  - p86 – trabajando con conjuntos
  - p87 – operaciones entre conjuntos
 
+## Actividad Tarea 07
+ - p88 - personas
+ - p89 - numeros
+## Actividad 14
+ - p90 - estudiante
+ - p91 - calificaciones
+## Actividad 15
+ - p92 - nombres y edades
+ - p93 - procesar pizza
+ - p94 - estudiantes
+## actividad Tarea 08
+ - p95 - dias de la semana 
+ - p96 - numeros romanos
+ - p97 - contar caracteres
+
